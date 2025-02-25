@@ -10,11 +10,24 @@
 <h1>osTicket: Creating and Working Tickets</h1>
 
 <h2>Description</h2>
-Continuation of the post-installation of osTicket. We will be simulating and work IT trouble tickets in osTicket. 
+Continuation of the <a href="https://github.com/AnthonydcHo/post-install-config"> post-installation of osTicket </a> . We will be simulating and work osTickets within a simulated organization. 
 <br/>
 <br/>
 
-<h2>Project Walk-through:</h2>
+<h2>List of Prerequisites</h2>
+
+- Microsoft Azure
+- Virtual Machine
+- <a href="https://github.com/AnthonydcHo/post-install-config"> Installation of osTicket 
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+- Windows 10
+
+<h2>Program Walk-through:</h2>
 
 
 
