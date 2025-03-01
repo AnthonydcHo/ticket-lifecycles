@@ -117,5 +117,4 @@ status: resolved!:  <br/>
 <br />
 <br />
 <b> osTicket: Creating and Working Tickets is now Complete!
-We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication!
-:  <br/>
+We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication!  <br/>
