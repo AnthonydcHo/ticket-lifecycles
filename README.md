@@ -27,7 +27,7 @@ Continuation of the <a href="https://github.com/AnthonydcHo/post-install-config"
 - Internet Information Services (IIS)
 - Windows 10
 
-<h2>Implementation /Program Walk-through:</h2>
+<h2>Implementation/Program Walk-through:</h2>
 
 
 
